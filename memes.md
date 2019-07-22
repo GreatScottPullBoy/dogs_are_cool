@@ -1,1 +1,1 @@
-assistant to the branch manager
+branch manager, assistant to the branch manager
